@@ -1,0 +1,8 @@
+<div class="item">
+	<div class="item-artist"><%= config.AuthorizeURL %> Hellow</div>
+	<div class="item-title"><%= config.BaseURL %></div>
+	<div class="item-price">$<%= config.RequestTokenURL %></div>
+	<div class="item-price">$<%= config.ConsumerSecret %></div>
+	<div class="item-price">$<%= config.ConsumerKey %></div>
+	<div class="item-price">$<%= config.AccessTokenURL  %></div>
+</div>
